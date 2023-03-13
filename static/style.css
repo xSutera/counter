@@ -1,0 +1,22 @@
+.container{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+.bg-red{
+    background-color: red;
+    width: 50px;
+    height: 25px;
+
+}
+.bg-blue{
+    background-color: blue;
+    width: 50px;
+    height:25px;
+}
+.sm-container{
+    justify-content: center;
+    width: 125px;
+    align-items: center;
+    margin: 0 auto ;
+}
